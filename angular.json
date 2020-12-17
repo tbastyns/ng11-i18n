@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "fun-i18n"
+    }
+  },
+  "defaultProject": "fun-i18n",
+  "cli": {
+    "analytics": "fda5a4f4-7811-4e19-8e75-4e33d967e3fa"
+  }
 }
